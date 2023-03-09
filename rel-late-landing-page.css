@@ -1,0 +1,331 @@
+.rel-late-landing-page-container {
+  min-height: 100vh;
+}
+.rel-late-landing-page-rel-late-landing-page {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("public/playground_assets/ef396841-e6d0-4b17-8ae8-d1091caacf35-p70sj-1100h.undefined");
+}
+.rel-late-landing-page-re-late-header {
+  top: -3.2783901691436768px;
+  left: -0.014404157176613808px;
+  width: 1439.9248046875px;
+  height: 200.47799682617188px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.rel-late-landing-page-re-late-logo-bannger {
+  top: 0px;
+  left: 0.8667848110198975px;
+  width: 1439.060302734375px;
+  height: 197.9690704345703px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  flex-grow: 1;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.rel-late-landing-page-banner-bar {
+  top: 102.62369815992666px;
+  left: 0.06860699376012747px;
+  width: 1438px;
+  height: 95px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.rel-late-landing-page-re-late-logo {
+  top: 122.7656961915022px;
+  left: 26.939457148993995px;
+  width: 437.18438720703125px;
+  height: 52.801429748535156px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.rel-late-landing-page-text {
+  top: 0.6572725715307399px;
+  left: -0.002685546703506958px;
+  color: rgba(0, 0, 0, 1);
+  width: 281px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  align-self: auto;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.75) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rel-late-landing-page-text02 {
+  top: 44.63517185604309px;
+  left: 224.18969935242544px;
+  color: rgba(0, 0, 0, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rel-late-landing-page-re-late-icon {
+  top: 118.5568457680726px;
+  left: 251.14760119488062px;
+  width: 75px;
+  height: 49px;
+  position: absolute;
+  border-color: transparent;
+}
+.rel-late-landing-page-relate-banner-image {
+  top: 3.278390179521793px;
+  left: -0.014354191840645347px;
+  width: 1438px;
+  height: 105px;
+  position: absolute;
+  border-color: transparent;
+}
+.rel-late-landing-page-re-late-landing-page-buttons {
+  top: 653px;
+  left: 421px;
+  width: 597px;
+  height: 41px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.rel-late-landing-page-sign-up-button {
+  top: 1px;
+  left: 454px;
+  width: 143px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.rel-late-landing-page-sign-up {
+  top: 0px;
+  left: 0px;
+  width: 143px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.rel-late-landing-page-text04 {
+  left: 27px;
+  color: rgba(0, 0, 0, 1);
+  width: 88px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rel-late-landing-page-sign-in-button {
+  top: 0px;
+  left: 0px;
+  width: 143px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.rel-late-landing-page-sign-in {
+  top: 1px;
+  left: 0px;
+  width: 143px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.rel-late-landing-page-text06 {
+  left: 27px;
+  color: rgba(0, 0, 0, 1);
+  width: 88px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rel-late-landing-page-user-logon {
+  top: 245px;
+  left: 612.995361328125px;
+  width: 215.46530151367188px;
+  height: 360.1327819824219px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.rel-late-landing-page-text08 {
+  top: 303.33566537161823px;
+  left: -0.838401534896775px;
+  color: rgba(0, 0, 0, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rel-late-landing-page-logon-page-password-field {
+  top: 340.11595972684677px;
+  left: 1.9448632298328903px;
+  width: 210px;
+  height: 20px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 1) ;
+}
+.rel-late-landing-page-text10 {
+  top: 219.9747417613102px;
+  left: -0.06327094445293824px;
+  color: rgba(0, 0, 0, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rel-late-landing-page-logon-page-username-field {
+  top: 252.2457044902186px;
+  left: 1.9447391919477468px;
+  width: 210px;
+  height: 20px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.rel-late-landing-page-re-late-intro-page-welcom-icon {
+  top: 0.594094662300023px;
+  left: 26.944864521718273px;
+  width: 188px;
+  height: 188px;
+  position: absolute;
+  border-color: transparent;
+}
